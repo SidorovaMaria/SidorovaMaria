@@ -144,7 +144,7 @@
 
 <h1 align="center">Projects</h1>
 
-<h3 align='center'> <a href="https://portfolio-6dft.vercel.app/" style="text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center;">
+<h3 align='center'> <a href="https://portfolio-6dft.vercel.app/"  style="text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center; background-color:#ffffff0f; padding:10px; border-radius:8px;">
     <img src="icons/portfolio.png" alt="Portfolio Logo" height="50" width="50" />
     <span>My Portfolio ↗</span>
   </a>
@@ -161,7 +161,7 @@
 </table>
 
 <hr>
-<h3 align='center'> <a href="https://mood-bowl.vercel.app/" style="text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center;">
+<h3 align='center'> <a href="https://mood-bowl.vercel.app/"  style="text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center; background-color:#ffffff0f; padding:10px; border-radius:8px;">
     <img src="icons/moodbowl-logo.png" alt="MoodBowl Logo" height="50" width="50" />
     <span>MoodBowl↗</span>
   </a>  
@@ -170,18 +170,21 @@
  Mental Health and Meal Tracking App</h3>
 </p>
 <table>
-<tr >
-<td colspan="2"><img src="images/moodbowl-preview.png" alt="MoodBowl Screenshot" width="100%" /></td>
+<tr>
+<td>
+<img src="images/moodbowl-preview.png" alt="MoodBowl Screenshot" width="100%" />
+</td>
+<td>
+  <img src="images/moodbowl-main.png" alt="MoodBowl Screenshot" width="100%" />
+</td>
+<td>
+  <img src="images/moodbowl-food.png" alt="MoodBowl Screenshot" width="100%" />
+</td>
 </tr>
-<td>
-  <img src="images/moodbowl-main.png" alt="MoodBowl Screenshot" width="70%" />
-</td>
-<td>
-  <img src="images/moodbowl-food.png" alt="MoodBowl Screenshot" width="70%" />
-</td>
+
 </table>
 <hr/>
-<h3 align='center'> <a href="https://portfolio-6dft.vercel.app/" style="text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center;">
+<h3 align='center'> <a href="https://notes-delta-blue.vercel.app/" style="text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center; background-color:#ffffff0f; padding:10px; border-radius:8px;">
     <img src="icons/notes-logo.svg" alt="Notes Logo" height="50" width="50" />
     <span>Notes↗</span>
   </a>
@@ -190,19 +193,28 @@
 </p> 
   <table align="center" style='border-spacing: 10px; border-collapse: separate; margin-left: auto; margin-right: auto;'>
 <tr>
-  <td colspan='2'>
-    <img src="images/notes/notes-desktop-dark.png" alt="Portfolio Screenshot" width="100%" />
+  <td >
+    <img src="images/notes/notes-desktop-dark.png" alt="Notes Desktop Dark" width="100%" />
 </td>
-
- <td colspan='2'>
-
-  <img src="images/notes/notes-desktop-light.png" alt="Portfolio Screenshot" width="100%" />
-  </td>
+<td> <img src="images/notes/notes-mobile-main.png" alt="Notes Mobile Main" width="60%" /></td>
+<td> <img src="images/notes/notes-mobile-search.png" alt="Notes Mobile Search" width="60%" /></td>
 </tr>
+</table>
+
+<hr/>
+<h3 align='center'> <a href="https://portfolio-flax-pi-68.vercel.app/" style="text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center; background-color:#ffffff0f; padding:10px; border-radius:8px;">
+    <img src="icons/notes-logo.svg" alt="Notes Logo" height="50" width="50" />
+    <span>Kanban Task Board</span>
+  </a>
+  </h3>
+<p align='center'>A modern Kanban-style task board for organizing your workflow. Easily create, move, and prioritize tasks across customizable columns. Built for clarity and efficiency, it helps you stay focused and productive whether you're managing personal projects or team tasks.</p>
+</p> 
+  <table align="center" style='border-spacing: 10px; border-collapse: separate; margin-left: auto; margin-right: auto;'>
 <tr>
-<td>  <img src="images/notes/notes-mobile-main.png" alt="Portfolio Screenshot" width="70%" /></td>
-<td>  <img src="images/notes/notes-mobile-tags.png" alt="Portfolio Screenshot" width="70%" /></td>
-<td>  <img src="images/notes/notes-mobile-search.png" alt="Portfolio Screenshot" width="70%" /></td>
-<td>  <img src="images/notes/notes-mobile-tags.png" alt="Portfolio Screenshot" width="70%" /></td>
+  <td >
+    <img src="images/kanban/kanban-desktop.png" alt="Kanban Desktop" width="100%" />
+</td>
+<td> <img src="images/kanban/kanban-mobile.png" alt="Kanban Mobile Main" width="60%" /></td>
+<td> <img src="images/kanban/kanban-light-mobile.png" alt="Kanban Mobile Light " width="60%" /></td>
 </tr>
 </table>
