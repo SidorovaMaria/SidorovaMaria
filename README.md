@@ -35,40 +35,47 @@
 <h2 align="center">🚀 Languages & Tools</h2>
 
 <h3 align="center">Front-End</h3>
-<table align="center">
+<table align="center" style='
+  border-spacing: 15px; 
+  border-collapse: separate;
+  margin-left: auto; 
+  margin-right: auto;'>
 <tr>
-  <td align="center" height="70" width="70">
+ <td align="center" height="70" width="70"style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
       <img src="icons/html5.svg" alt="HTML" width="40" height="40"/>
       <br/>HTML5
     </td>
-  <td align="center" height="70" width="70">
+ <td align="center" height="70" width="70"style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
       <img src="icons/css3.svg" alt="CSS3" width="40" height="40"/>
       <br/>CSS3
     </td>
-    <td align="center" height="70" width="70">
+ <td align="center" height="70" width="70"style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
       <img src="icons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40"/>
       <br/>Tailwind CSS
     </td>
-  <td align="center" height="70" width="70">
+ <td align="center" height="70" width="70"style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
       <img src="icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
       <br/>JavaScript
     </td>
-    <td align="center" height="70" width="70">
+     <td align="center" height="70" width="70"style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
       <img src="icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
       <br/>TypeScript
     </td>
-     <td align="center" height="70" width="70">
+    </tr>
+    <tr>
+     <td align="center" height="70" width="70"style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
       <img src="icons/react.svg" alt="React" width="40" height="40"/>
       <br/>React
     </td>
-     <td align="center" height="70" width="70">
+     <td align="center" height="70" width="70"style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
       <img src="icons/nextjs.svg" alt="Next.js" width="40" height="40"/>
       <br/>Next.js
     </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/redux.svg" alt="Redux" width="40" height="40"/>
+    <td align="center" height="70" width="70"style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
+      <img src="icons/redux.svg" alt="Redux" width="40" height="40"
+      />
       <br/>Redux
-    </td><td align="center" height="70" width="70">
+    </td><td align="center" height="70" width="70" style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
       <img src="icons/framermotion.svg" alt="Framer Motion" width="40" height="40"/>
       <br/>Framer Motion
     </td>
@@ -76,22 +83,25 @@
 </table>
 
 <h3 align="center">Back-End</h3>
-<table align="center">
+<table align="center" style='
+  border-spacing: 15px; 
+  border-collapse: separate;
+  margin-left: auto; 
+  margin-right: auto;'>
 <tr>
-  
-  <td align="center" height="70" width="70">
+ <td align="center" height="70" width="70" style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
       <img src="icons/nodejs.svg" alt="Node.js" width="40" height="40"/>
       <br/>Node.js
     </td>
-     <td align="center" height="70" width="70">
+    <td align="center" height="70" width="70" style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
       <img src="icons/express.svg" alt="Express.js" width="40" height="40"/>
       <br/>Express.js
     </td>
-     <td align="center" height="70" width="70">
+<td align="center" height="70" width="70" style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
       <img src="icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
       <br/>MongoDB
     </td>
-     <td align="center" height="70" width="70">
+     <td align="center" height="70" width="70" style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
       <img src="icons/sql.svg" alt="SQL Basics" width="40" height="40"/>
       <br/>SQL Basics
     </td>
@@ -99,32 +109,72 @@
 </table>
 
 <h3 align="center">Tools & Workflow</h3>
-<table align="center">
+<table align="center" style='
+  border-spacing: 15px; 
+  border-collapse: separate;
+  margin-left: auto; 
+  margin-right: auto;'>
 <tr>
-  <td align="center" height="70" width="70">
+  <td align="center" height="70" width="70" style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
       <img src="icons/github.svg" alt="GitHub" width="40" height="40"/>
       <br/>Git & GitHub
     </td>
-    <td align="center" height="70" width="70">
+    <td align="center" height="70" width="70" style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
       <img src="icons/figma.svg" alt="Figma" width="40" height="40"/>
       <br/>Figma
     </td>
-     <td align="center" height="70" width="70">
+     <td align="center" height="70" width="70" style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
       <img src="icons/webpack.svg" alt="Webpack" width="40" height="40"/>
       <br/>Webpack
     </td>
-     <td align="center" height="70" width="70">
+     <td align="center" height="70" width="70" style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
       <img src="icons/vitejs.svg" alt="ViteJs" width="40" height="40"/>
       <br/>ViteJs
     </td>
-     <td align="center" height="70" width="70">
+     <td align="center" height="70" width="70" style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
       <img src="icons/eslint.svg" alt="Eslint" width="40" height="40"/>
       <br/>Eslint & Prettier
     </td>
-     <td align="center" height="70" width="70">
+     <td align="center" height="70" width="70" style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
       <img src="icons/vercel.svg" alt="Vercel" width="40" height="40"/>
       <br/>Vercel
     </td>
     </tr>
 </table>
 <h1 align="center">Projects</h1>
+<h3 align='center'> <a href="https://portfolio-6dft.vercel.app/" style="text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center;">
+    <img src="icons/portfolio.png" alt="Portfolio Logo" height="50" width="50" />
+    <span>My Portfolio</span>
+  </a>
+  </h3>
+  <table align="center">
+<tr >
+  <td>
+  <img src="images/portfolio-me.png" alt="Portfolio Screenshot" width="100%" />
+</td>
+ <td>
+  <img src="images/portfolio-start.png" alt="Portfolio Screenshot" width="100%" />
+</td>
+</tr>
+</table>
+
+<hr>
+<h3 align='center'> <a href="https://mood-bowl.vercel.app/" style="text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center;">
+    <img src="icons/moodbowl-logo.png" alt="MoodBowl Logo" height="50" width="50" />
+    <span>MoodBowl</span>
+  </a>  
+  </h3>
+<p align='center'>
+ Mental Health and Meal Tracking App</h3>
+</p>
+<table>
+<tr >
+<td colspan="2"><img src="images/moodbowl-preview.png" alt="MoodBowl Screenshot" width="100%" /></td>
+</tr>
+<td>
+  <img src="images/moodbowl-main.png" alt="MoodBowl Screenshot" width="100%" />
+</td>
+<td>
+  <img src="images/moodbowl-food.png" alt="MoodBowl Screenshot" width="100%" />
+</td>
+</table>
