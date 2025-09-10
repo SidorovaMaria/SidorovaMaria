@@ -141,10 +141,12 @@
     </td>
     </tr>
 </table>
+
 <h1 align="center">Projects</h1>
+
 <h3 align='center'> <a href="https://portfolio-6dft.vercel.app/" style="text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center;">
     <img src="icons/portfolio.png" alt="Portfolio Logo" height="50" width="50" />
-    <span>My Portfolio</span>
+    <span>My Portfolio ↗</span>
   </a>
   </h3>
   <table align="center">
@@ -161,7 +163,7 @@
 <hr>
 <h3 align='center'> <a href="https://mood-bowl.vercel.app/" style="text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center;">
     <img src="icons/moodbowl-logo.png" alt="MoodBowl Logo" height="50" width="50" />
-    <span>MoodBowl</span>
+    <span>MoodBowl↗</span>
   </a>  
   </h3>
 <p align='center'>
@@ -172,9 +174,35 @@
 <td colspan="2"><img src="images/moodbowl-preview.png" alt="MoodBowl Screenshot" width="100%" /></td>
 </tr>
 <td>
-  <img src="images/moodbowl-main.png" alt="MoodBowl Screenshot" width="100%" />
+  <img src="images/moodbowl-main.png" alt="MoodBowl Screenshot" width="70%" />
 </td>
 <td>
-  <img src="images/moodbowl-food.png" alt="MoodBowl Screenshot" width="100%" />
+  <img src="images/moodbowl-food.png" alt="MoodBowl Screenshot" width="70%" />
 </td>
+</table>
+<hr/>
+<h3 align='center'> <a href="https://portfolio-6dft.vercel.app/" style="text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center;">
+    <img src="icons/notes-logo.svg" alt="Notes Logo" height="50" width="50" />
+    <span>Notes↗</span>
+  </a>
+  </h3>
+<p align='center'>A sleek and intuitive web app for organizing, tagging, and searching your notes—designed for productivity and ease of use.</p>
+</p> 
+  <table align="center" style='border-spacing: 10px; border-collapse: separate; margin-left: auto; margin-right: auto;'>
+<tr>
+  <td colspan='2'>
+    <img src="images/notes/notes-desktop-dark.png" alt="Portfolio Screenshot" width="100%" />
+</td>
+
+ <td colspan='2'>
+
+  <img src="images/notes/notes-desktop-light.png" alt="Portfolio Screenshot" width="100%" />
+  </td>
+</tr>
+<tr>
+<td>  <img src="images/notes/notes-mobile-main.png" alt="Portfolio Screenshot" width="70%" /></td>
+<td>  <img src="images/notes/notes-mobile-tags.png" alt="Portfolio Screenshot" width="70%" /></td>
+<td>  <img src="images/notes/notes-mobile-search.png" alt="Portfolio Screenshot" width="70%" /></td>
+<td>  <img src="images/notes/notes-mobile-tags.png" alt="Portfolio Screenshot" width="70%" /></td>
+</tr>
 </table>
