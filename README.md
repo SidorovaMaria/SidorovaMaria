@@ -142,9 +142,8 @@
     </tr>
 </table>
 
-<h1 align="center">Projects</h1>
-
-<h3 align='center'> <a href="https://portfolio-6dft.vercel.app/"  style="text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center; background-color:#ffffff0f; padding:10px; border-radius:8px;">
+<h1 align="center" style='margin-top:60px'>Projects</h1>
+<h3 align='center'> <a href="https://portfolio-6dft.vercel.app/"  style="text-decoration:none; color:white; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center; background-color:#fffefe4d; padding:10px; border-radius:8px;">
     <img src="icons/portfolio.png" alt="Portfolio Logo" height="50" width="50" />
     <span>My Portfolio ↗</span>
   </a>
@@ -160,61 +159,154 @@
 </tr>
 </table>
 
-<hr>
-<h3 align='center'> <a href="https://mood-bowl.vercel.app/"  style="text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center; background-color:#ffffff0f; padding:10px; border-radius:8px;">
-    <img src="icons/moodbowl-logo.png" alt="MoodBowl Logo" height="50" width="50" />
-    <span>MoodBowl↗</span>
-  </a>  
-  </h3>
-<p align='center'>
- Mental Health and Meal Tracking App</h3>
-</p>
 <table>
-<tr>
-<td>
-<img src="images/moodbowl-preview.png" alt="MoodBowl Screenshot" width="100%" />
-</td>
-<td>
-  <img src="images/moodbowl-main.png" alt="MoodBowl Screenshot" width="100%" />
-</td>
-<td>
-  <img src="images/moodbowl-food.png" alt="MoodBowl Screenshot" width="100%" />
-</td>
-</tr>
-
-</table>
-<hr/>
-<h3 align='center'> <a href="https://notes-delta-blue.vercel.app/" style="text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center; background-color:#ffffff0f; padding:10px; border-radius:8px;">
-    <img src="icons/notes-logo.svg" alt="Notes Logo" height="50" width="50" />
-    <span>Notes↗</span>
-  </a>
-  </h3>
-<p align='center'>A sleek and intuitive web app for organizing, tagging, and searching your notes—designed for productivity and ease of use.</p>
-</p> 
-  <table align="center" style='border-spacing: 10px; border-collapse: separate; margin-left: auto; margin-right: auto;'>
-<tr>
-  <td >
-    <img src="images/notes/notes-desktop-dark.png" alt="Notes Desktop Dark" width="100%" />
-</td>
-<td> <img src="images/notes/notes-mobile-main.png" alt="Notes Mobile Main" width="60%" /></td>
-<td> <img src="images/notes/notes-mobile-search.png" alt="Notes Mobile Search" width="60%" /></td>
-</tr>
-</table>
-
-<hr/>
-<h3 align='center'> <a href="https://portfolio-flax-pi-68.vercel.app/" style="text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center; background-color:#ffffff0f; padding:10px; border-radius:8px;">
-    <img src="icons/notes-logo.svg" alt="Notes Logo" height="50" width="50" />
-    <span>Kanban Task Board</span>
-  </a>
-  </h3>
-<p align='center'>A modern Kanban-style task board for organizing your workflow. Easily create, move, and prioritize tasks across customizable columns. Built for clarity and efficiency, it helps you stay focused and productive whether you're managing personal projects or team tasks.</p>
-</p> 
-  <table align="center" style='border-spacing: 10px; border-collapse: separate; margin-left: auto; margin-right: auto;'>
-<tr>
-  <td >
-    <img src="images/kanban/kanban-desktop.png" alt="Kanban Desktop" width="100%" />
-</td>
-<td> <img src="images/kanban/kanban-mobile.png" alt="Kanban Mobile Main" width="60%" /></td>
-<td> <img src="images/kanban/kanban-light-mobile.png" alt="Kanban Mobile Light " width="60%" /></td>
-</tr>
+  <tr>
+     <td width='50%'>
+      <h2 align='center'>KanBan - Task Management App</h2>
+      <p>
+        KanBan is a web app for organizing tasks and projects with a visual board. It offers a simple interface for tracking progress and supports team collaboration.
+      </p>
+      <div align='center'>  
+        <a href='https://chronous.midstem.net'>
+          <img src='images/kanban-desktop.png' alt='KanBan'/>
+        </a>
+        <br>
+        <br>
+         <p style='display:flex; align-items:center; gap:20px; justify-content:center;'>
+         <a href='https://github.com/SidorovaMaria/Portfolio/tree/main/kanban-task' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
+            <img src='icons/open-in.svg' width='24' height='24'/>
+            Repository
+          </a>
+          <a href='https://portfolio-flax-pi-68.vercel.app/' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
+            <img src='icons/eye.svg' width='24' height='24'/>
+            Live Demo
+          </a>
+        </p>
+        <p><strong>React, JavaScript, Node.js, Redux, Tailwind CSS, Yup</strong></p>
+      </div>
+    </td>
+    <td width='50%'>
+      <h2 align='center'>MoodBowl</h2>
+      <p>
+        MoodBowl helps users log meals and moods, revealing connections between nutrition and well-being. Its simple interface and clear charts support healthy habits and self-awareness.
+      </p>
+      <div align='center'>  
+        <a href='https://chronous.midstem.net'>
+          <img src='images/moodbowl-preview.png' alt='MoodBowl'/>
+        </a>
+        <br>
+        <br>
+        <p style='display:flex; align-items:center; gap:20px; justify-content:center;'>
+         <a href='https://chronous.midstem.net' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
+            <img src='icons/open-in.svg' width='24' height='24'/>
+            Repository
+          </a>
+          <a href='https://chronous.midstem.net' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
+            <img src='icons/eye.svg' width='24' height='24'/>
+            Live Demo
+          </a>
+        </p>
+        <p><strong>React, TypeScript, Next.js, Tailwind CSS, Recharts, Framer Motion, MongoDB, Radix UI, Mongoose</strong></p>
+      </div>
+    </td>
+  </tr>
+   <tr>
+     <td width='50%'>
+      <h2 align='center'>Notes - Note Taking App</h2>
+      <p>
+        Notes is a web app for organizing and managing personal notes. It offers a simple interface for creating, editing, and deleting notes, with support for rich text formatting.
+      </p>
+      <div align='center'>  
+        <a href='https://chronous.midstem.net'>
+          <img src='images/notes-desktop-dark.png' alt='Notes'/>
+        </a>
+        <br>
+        <br>
+         <p style='display:flex; align-items:center; gap:20px; justify-content:center;'>
+         <a href='https://github.com/SidorovaMaria/Portfolio/tree/main/notes' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
+            <img src='icons/open-in.svg' width='24' height='24'/>
+            Repository
+          </a>
+          <a href='https://notes-delta-blue.vercel.app/' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
+            <img src='icons/eye.svg' width='24' height='24'/>
+            Live Demo
+          </a>
+        </p>
+        <p><strong>React, JavaScript, Node.js, Redux, Tailwind CSS, Yup, Framer Motion</strong></p>
+      </div>
+    </td>
+    <td width='50%'>
+      <h2 align='center'>Finance - Budget Tracker</h2>
+      <p>
+        Budget Tracker is a web app for managing personal finances. It offers a simple interface for tracking income and expenses, with support for visualizing financial data.
+      </p>
+      <div align='center'>  
+        <a href='https://chronous.midstem.net'>
+          <img src='images/budget-tracker.png' alt='Budget Tracker'/>
+        </a>
+        <br>
+        <br>
+        <p style='display:flex; align-items:center; gap:20px; justify-content:center;'>
+         <a href='https://github.com/SidorovaMaria/Portfolio/tree/main/personal-finance' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
+            <img src='icons/open-in.svg' width='24' height='24'/>
+            Repository
+          </a>
+          <a href='https://budget-tracker-flame-eight.vercel.app/' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
+            <img src='icons/eye.svg' width='24' height='24'/>
+            Live Demo
+          </a>
+        </p>
+        <p><strong>Redux, Next.js, Tailwind CSS, Framer Motion</strong></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+     <td width='50%'>
+      <h2 align='center'>Sonar Strike - Battle Ship Game</h2>
+      <p>
+        Sonar Strike is a web-based battle ship game that allows players to compete against AI in a strategic naval battle. Players can place their ships on a grid and take turns guessing the locations of their opponent's ships.
+      <div align='center'>  
+        <a href='https://chronous.midstem.net'>
+          <img src='images/sonar-strike.png' alt='Sonar Strike'/>
+        </a>
+        <br>
+        <br>
+         <p style='display:flex; align-items:center; gap:20px; justify-content:center;'>
+         <a href='https://github.com/SidorovaMaria/Odin-Project/tree/main/JavaScript/SonarStrike' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
+            <img src='icons/open-in.svg' width='24' height='24'/>
+            Repository
+          </a>
+          <a href='https://htmlpreview.github.io/?https://github.com/SidorovaMaria/Odin-Project/blob/sonar-strike/index.html' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
+            <img src='icons/eye.svg' width='24' height='24'/>
+            Live Demo
+          </a>
+        </p>
+        <p><strong>Vanilla JavaScript, HTML, CSS</strong></p>
+      </div>
+    </td>
+    <td width='50%'>
+      <h2 align='center'>BMI Calculator</h2>
+      <p>
+        BMI Calculator is a web app for calculating Body Mass Index (BMI). It offers a simple interface for inputting height and weight, with support for visualizing BMI categories.
+      </p>
+      <div align='center'>  
+        <a href='https://chronous.midstem.net'>
+          <img src='images/bmi-calculator.png' alt='BMI Calculator'/>
+        </a>
+        <br>
+        <br>
+        <p style='display:flex; align-items:center; gap:20px; justify-content:center;'>
+         <a href='https://chronous.midstem.net' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
+            <img src='icons/open-in.svg' width='24' height='24'/>
+            Repository
+          </a>
+          <a href='https://bmi-kappa-amber.vercel.app/' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
+            <img src='icons/eye.svg' width='24' height='24'/>
+            Live Demo
+          </a>
+        </p>
+        <p><strong>Redux, Next.js, Tailwind CSS, Framer Motion</strong></p>
+      </div>
+    </td>
+  </tr>
 </table>
