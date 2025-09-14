@@ -151,10 +151,10 @@
   <table align="center">
   <tr >
   <td>
-  <img src="images/motion-playground" alt="Motion Playground Main" width="100%" />
+  <img src="images/motion-playground.png" alt="Motion Playground Main" width="100%" />
 </td>
  <td>
-  <img src="images/motion-transform" alt="Motion Transfrom Playground" width="100%" />
+  <img src="images/motion-transform.png" alt="Motion Transfrom Playground" width="100%" />
 </td>
 </tr>
 </table>
