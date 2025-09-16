@@ -207,7 +207,7 @@
         MoodBowl helps users log meals and moods, revealing connections between nutrition and well-being. Its simple interface and clear charts support healthy habits and self-awareness.
       </p>
       <div align='center'>  
-        <a href='https://chronous.midstem.net'>
+        <a href='https://mood-bowl.vercel.app/'>
           <img src='images/moodbowl-preview.png' alt='MoodBowl'/>
         </a>
         <br>
