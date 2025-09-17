@@ -183,7 +183,7 @@
         KanBan is a web app for organizing tasks and projects with a visual board. It offers a simple interface for tracking progress and supports team collaboration.
       </p>
       <div align='center'>  
-        <a href='https://chronous.midstem.net'>
+        <a href='https://github.com/SidorovaMaria/Portfolio/tree/main/kanban-task'>
           <img src='images/kanban-desktop.png' alt='KanBan'/>
         </a>
         <br>
@@ -213,11 +213,11 @@
         <br>
         <br>
         <p style='display:flex; align-items:center; gap:20px; justify-content:center;'>
-         <a href='https://chronous.midstem.net' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
+         <a href='https://github.com/SidorovaMaria/mood-bowl' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
             <img src='icons/open-in.svg' width='24' height='24'/>
             Repository
           </a>
-          <a href='https://chronous.midstem.net' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
+          <a href='https://mood-bowl.vercel.app/' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
             <img src='icons/eye.svg' width='24' height='24'/>
             Live Demo
           </a>
@@ -233,7 +233,7 @@
         Notes is a web app for organizing and managing personal notes. It offers a simple interface for creating, editing, and deleting notes, with support for rich text formatting.
       </p>
       <div align='center'>  
-        <a href='https://chronous.midstem.net'>
+        <a href='https://github.com/SidorovaMaria/Portfolio/tree/main/notes'>
           <img src='images/notes-desktop-dark.png' alt='Notes'/>
         </a>
         <br>
@@ -257,7 +257,7 @@
         Budget Tracker is a web app for managing personal finances. It offers a simple interface for tracking income and expenses, with support for visualizing financial data.
       </p>
       <div align='center'>  
-        <a href='https://chronous.midstem.net'>
+        <a href='https://budget-tracker-flame-eight.vercel.app/'>
           <img src='images/budget-tracker.png' alt='Budget Tracker'/>
         </a>
         <br>
@@ -282,7 +282,7 @@
       <p>
         Sonar Strike is a web-based battle ship game that allows players to compete against AI in a strategic naval battle. Players can place their ships on a grid and take turns guessing the locations of their opponent's ships.
       <div align='center'>  
-        <a href='https://chronous.midstem.net'>
+        <a href='https://notes-delta-blue.vercel.app/'>
           <img src='images/sonar-strike.png' alt='Sonar Strike'/>
         </a>
         <br>
@@ -300,29 +300,6 @@
         <p><strong>Vanilla JavaScript, HTML, CSS</strong></p>
       </div>
     </td>
-    <td width='50%'>
-      <h2 align='center'>BMI Calculator</h2>
-      <p>
-        BMI Calculator is a web app for calculating Body Mass Index (BMI). It offers a simple interface for inputting height and weight, with support for visualizing BMI categories.
-      </p>
-      <div align='center'>  
-        <a href='https://chronous.midstem.net'>
-          <img src='images/bmi-calculator.png' alt='BMI Calculator'/>
-        </a>
-        <br>
-        <br>
-        <p style='display:flex; align-items:center; gap:20px; justify-content:center;'>
-         <a href='https://chronous.midstem.net' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
-            <img src='icons/open-in.svg' width='24' height='24'/>
-            Repository
-          </a>
-          <a href='https://bmi-kappa-amber.vercel.app/' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
-            <img src='icons/eye.svg' width='24' height='24'/>
-            Live Demo
-          </a>
-        </p>
-        <p><strong>Redux, Next.js, Tailwind CSS, Framer Motion</strong></p>
-      </div>
-    </td>
+   
   </tr>
 </table>
