@@ -141,7 +141,7 @@
     </td>
     </tr>
 </table>
-<h1 align="center" style='margin-top:60px'>Curently Wortking On </h1>
+<!-- <h1 align="center" style='margin-top:60px'>Curently Wortking On </h1>
 <h3 align='center'> <a href="https://motion-playground-one.vercel.app/"  style="text-decoration:none; color:white; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center; background-color:#fffefe4d; padding:10px; border-radius:8px;">
     <img src="icons/portfolio.png" alt="Portfolio Logo" height="50" width="50" />
     <span>Motion Animation Playground and learning Website↗</span>
@@ -157,7 +157,7 @@
   <img src="images/motion-transform.png" alt="Motion Transfrom Playground" width="100%" />
 </td>
 </tr>
-</table>
+</table> -->
 <h1 align="center" style='margin-top:60px'>Projects</h1>
 <h3 align='center'> <a href="https://portfolio-6dft.vercel.app/"  style="text-decoration:none; color:white; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center; background-color:#fffefe4d; padding:10px; border-radius:8px;">
     <img src="icons/portfolio.png" alt="Portfolio Logo" height="50" width="50" />
