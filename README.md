@@ -208,12 +208,12 @@
       </p>
       <div align='center'>  
         <a href='https://figma-clone-iota-five.vercel.app/'>
-          <img src='images/canvo-main' alt='Canvo Main'/>
+          <img src='images/figma-canvas-1.png' alt='Canvo Main'/>
         </a>
         <br>
         <br>
         <p style='display:flex; align-items:center; gap:20px; justify-content:center;'>
-         <a href='https://github.com/SidorovaMaria/mood-bowl' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
+         <a href='https://github.com/SidorovaMaria/figma-clone' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
             <img src='icons/open-in.svg' width='24' height='24'/>
             Repository
           </a>
