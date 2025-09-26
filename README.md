@@ -202,13 +202,13 @@
       </div>
     </td>
     <td width='50%'>
-      <h2 align='center'>MoodBowl</h2>
+      <h2 align='center'>Canvo</h2>
       <p>
-        MoodBowl helps users log meals and moods, revealing connections between nutrition and well-being. Its simple interface and clear charts support healthy habits and self-awareness.
+     CANVO is a simple figma clone with real-time collaboration features, allowing multiple users to work on designs simultaneously.
       </p>
       <div align='center'>  
-        <a href='https://mood-bowl.vercel.app/'>
-          <img src='images/moodbowl-preview.png' alt='MoodBowl'/>
+        <a href='https://figma-clone-iota-five.vercel.app/'>
+          <img src='images/canvo-main' alt='Canvo Main'/>
         </a>
         <br>
         <br>
@@ -217,7 +217,7 @@
             <img src='icons/open-in.svg' width='24' height='24'/>
             Repository
           </a>
-          <a href='https://mood-bowl.vercel.app/' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
+          <a href='https://figma-clone-iota-five.vercel.app/' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
             <img src='icons/eye.svg' width='24' height='24'/>
             Live Demo
           </a>
@@ -225,6 +225,7 @@
         <p><strong>React, TypeScript, Next.js, Tailwind CSS, Recharts, Framer Motion, MongoDB, Radix UI, Mongoose</strong></p>
       </div>
     </td>
+    
   </tr>
    <tr>
      <td width='50%'>
@@ -298,6 +299,30 @@
           </a>
         </p>
         <p><strong>Vanilla JavaScript, HTML, CSS</strong></p>
+      </div>
+    </td>
+    <td width='50%'>
+      <h2 align='center'>MoodBowl</h2>
+      <p>
+        MoodBowl helps users log meals and moods, revealing connections between nutrition and well-being. Its simple interface and clear charts support healthy habits and self-awareness.
+      </p>
+      <div align='center'>  
+        <a href='https://mood-bowl.vercel.app/'>
+          <img src='images/moodbowl-preview.png' alt='MoodBowl'/>
+        </a>
+        <br>
+        <br>
+        <p style='display:flex; align-items:center; gap:20px; justify-content:center;'>
+         <a href='https://github.com/SidorovaMaria/mood-bowl' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
+            <img src='icons/open-in.svg' width='24' height='24'/>
+            Repository
+          </a>
+          <a href='https://mood-bowl.vercel.app/' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
+            <img src='icons/eye.svg' width='24' height='24'/>
+            Live Demo
+          </a>
+        </p>
+        <p><strong>React, TypeScript, Next.js, Tailwind CSS, Recharts, Framer Motion, MongoDB, Radix UI, Mongoose</strong></p>
       </div>
     </td>
    
