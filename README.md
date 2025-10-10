@@ -177,154 +177,152 @@
 
 <table>
   <tr>
-     <td width='50%'>
-      <h2 align='center'>KanBan - Task Management App</h2>
-      <p>
-        KanBan is a web app for organizing tasks and projects with a visual board. It offers a simple interface for tracking progress and supports team collaboration.
-      </p>
-      <div align='center'>  
-        <a href='https://github.com/SidorovaMaria/Portfolio/tree/main/kanban-task'>
-          <img src='images/kanban-desktop.png' alt='KanBan'/>
-        </a>
-        <br>
-        <br>
-         <p style='display:flex; align-items:center; gap:20px; justify-content:center;'>
-         <a href='https://github.com/SidorovaMaria/Portfolio/tree/main/kanban-task' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
-            <img src='icons/open-in.svg' width='24' height='24'/>
-            Repository
-          </a>
-          <a href='https://portfolio-flax-pi-68.vercel.app/' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
-            <img src='icons/eye.svg' width='24' height='24'/>
-            Live Demo
-          </a>
-        </p>
-        <p><strong>React, JavaScript, Node.js, Redux, Tailwind CSS, Yup</strong></p>
-      </div>
-    </td>
-    <td width='50%'>
-      <h2 align='center'>Canvo</h2>
-      <p>
-     CANVO is a simple figma clone with real-time collaboration features, allowing multiple users to work on designs simultaneously.
-      </p>
-      <div align='center'>  
-        <a href='https://figma-clone-iota-five.vercel.app/'>
-          <img src='images/figma-canvas-1.png' alt='Canvo Main'/>
-        </a>
-        <br>
-        <br>
-        <p style='display:flex; align-items:center; gap:20px; justify-content:center;'>
-         <a href='https://github.com/SidorovaMaria/figma-clone' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
-            <img src='icons/open-in.svg' width='24' height='24'/>
-            Repository
-          </a>
-          <a href='https://figma-clone-iota-five.vercel.app/' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
-            <img src='icons/eye.svg' width='24' height='24'/>
-            Live Demo
-          </a>
-        </p>
-        <p><strong>React, TypeScript, Next.js, Tailwind CSS, Recharts, Framer Motion, MongoDB, Radix UI, Mongoose</strong></p>
-      </div>
-    </td>
-    
+    <td width="50%">
+  <h2 align="center">💰 Finance – Budget Tracker</h2>
+  <p>
+    A personal finance and budget tracker that helps users manage income, expenses, and savings.
+    Features include transaction tracking, budget creation, and savings pots for specific goals — all
+    within a clean and intuitive interface.
+  </p>
+  <div align="center">
+    <a href="https://budget-tracker-finance.vercel.app/" target="_blank">
+      <img src="images/budget-tracker.png" alt="Budget Tracker preview" width="100%" style="border-radius:12px;"/>
+    </a>
+    <br><br>
+    <p align="center">
+      <a href="https://github.com/SidorovaMaria/budget_tracker" target="_blank" style="text-decoration:none; color:inherit; font-weight:600; margin-right:20px;">
+        <img src="icons/open-in.svg" width="18" height="18"/> Repository
+      </a>
+      <a href="https://budget-tracker-finance.vercel.app/" target="_blank" style="text-decoration:none; color:inherit; font-weight:600;">
+        <img src="icons/eye.svg" width="18" height="18"/> Live Demo
+      </a>
+    </p>
+    <p align="center">
+      <strong>Next.js · React · TypeScript · Tailwind CSS · Radix UI · MongoDB · Mongoose · NextAuth.js · Zod · Vercel</strong>
+    </p>
+  </div>
+</td>
+    <td width="50%">
+  <h2 align="center">🎨 Canvo – Figma Clone</h2>
+  <p>
+    Canvo is a lightweight Figma-style design tool featuring real-time collaboration, allowing multiple users to create and edit designs together on a shared canvas. Built for speed, simplicity, and creativity.
+  </p>
+  <div align="center">
+    <a href="https://figma-clone-iota-five.vercel.app/" target="_blank">
+      <img src="images/figma-canvas-1.png" alt="Canvo Figma Clone preview" width="100%" style="border-radius:12px;"/>
+    </a>
+    <br><br>
+    <p align="center">
+      <a href="https://github.com/SidorovaMaria/figma-clone" target="_blank" style="text-decoration:none; color:inherit; font-weight:600; margin-right:20px;">
+        <img src="icons/open-in.svg" width="18" height="18"/> Repository
+      </a>
+      <a href="https://figma-clone-iota-five.vercel.app/" target="_blank" style="text-decoration:none; color:inherit; font-weight:600;">
+        <img src="icons/eye.svg" width="18" height="18"/> Live Demo
+      </a>
+    </p>
+    <p align="center">
+      <strong>Next.js · React · TypeScript · Tailwind CSS · Radix UI · Framer Motion · MongoDB · Mongoose · Recharts</strong>
+    </p>
+  </div>
+</td>
+
   </tr>
    <tr>
-     <td width='50%'>
-      <h2 align='center'>Notes - Note Taking App</h2>
-      <p>
-        Notes is a web app for organizing and managing personal notes. It offers a simple interface for creating, editing, and deleting notes, with support for rich text formatting.
-      </p>
-      <div align='center'>  
-        <a href='https://github.com/SidorovaMaria/Portfolio/tree/main/notes'>
-          <img src='images/notes-desktop-dark.png' alt='Notes'/>
-        </a>
-        <br>
-        <br>
-         <p style='display:flex; align-items:center; gap:20px; justify-content:center;'>
-         <a href='https://github.com/SidorovaMaria/Portfolio/tree/main/notes' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
-            <img src='icons/open-in.svg' width='24' height='24'/>
-            Repository
-          </a>
-          <a href='https://notes-delta-blue.vercel.app/' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
-            <img src='icons/eye.svg' width='24' height='24'/>
-            Live Demo
-          </a>
-        </p>
-        <p><strong>React, JavaScript, Node.js, Redux, Tailwind CSS, Yup, Framer Motion</strong></p>
-      </div>
-    </td>
-    <td width='50%'>
-      <h2 align='center'>Finance - Budget Tracker</h2>
-      <p>
-        Budget Tracker is a web app for managing personal finances. It offers a simple interface for tracking income and expenses, with support for visualizing financial data.
-      </p>
-      <div align='center'>  
-        <a href='https://budget-tracker-flame-eight.vercel.app/'>
-          <img src='images/budget-tracker.png' alt='Budget Tracker'/>
-        </a>
-        <br>
-        <br>
-        <p style='display:flex; align-items:center; gap:20px; justify-content:center;'>
-         <a href='https://github.com/SidorovaMaria/Portfolio/tree/main/personal-finance' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
-            <img src='icons/open-in.svg' width='24' height='24'/>
-            Repository
-          </a>
-          <a href='https://budget-tracker-flame-eight.vercel.app/' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
-            <img src='icons/eye.svg' width='24' height='24'/>
-            Live Demo
-          </a>
-        </p>
-        <p><strong>Redux, Next.js, Tailwind CSS, Framer Motion</strong></p>
-      </div>
-    </td>
+   <td width="50%">
+  <h2 align="center">🗂️ KanBan – Task Management App</h2>
+  <p>
+    KanBan is a modern task management web app that helps users organize projects visually with customizable boards and columns. It supports dynamic task tracking, smooth animations, and collaborative workflow management.
+  </p>
+  <div align="center">
+    <a href="https://portfolio-flax-pi-68.vercel.app/" target="_blank">
+      <img src="images/kanban-desktop.png" alt="KanBan App preview" width="100%" style="border-radius:12px;"/>
+    </a>
+    <br><br>
+    <p align="center">
+      <a href="https://github.com/SidorovaMaria/Portfolio/tree/main/kanban-task" target="_blank" style="text-decoration:none; color:inherit; font-weight:600; margin-right:20px;">
+        <img src="icons/open-in.svg" width="18" height="18"/> Repository
+      </a>
+      <a href="https://portfolio-flax-pi-68.vercel.app/" target="_blank" style="text-decoration:none; color:inherit; font-weight:600;">
+        <img src="icons/eye.svg" width="18" height="18"/> Live Demo
+      </a>
+    </p>
+    <p align="center">
+      <strong>React · Redux · JavaScript · Node.js · Tailwind CSS · Yup</strong>
+    </p>
+  </div>
+</td>
+     <td width="50%">
+  <h2 align="center">📝 Notes – Note-Taking App</h2>
+  <p>
+    Notes is a minimalist note-taking web app for creating, editing, and organizing personal notes. It features smooth animations, tag management, and a clean responsive interface designed for focus and simplicity.
+  </p>
+  <div align="center">
+    <a href="https://notes-delta-blue.vercel.app/" target="_blank">
+      <img src="images/notes-desktop-dark.png" alt="Notes App preview" width="100%" style="border-radius:12px;"/>
+    </a>
+    <br><br>
+    <p align="center">
+      <a href="https://github.com/SidorovaMaria/Portfolio/tree/main/notes" target="_blank" style="text-decoration:none; color:inherit; font-weight:600; margin-right:20px;">
+        <img src="icons/open-in.svg" width="18" height="18"/> Repository
+      </a>
+      <a href="https://notes-delta-blue.vercel.app/" target="_blank" style="text-decoration:none; color:inherit; font-weight:600;">
+        <img src="icons/eye.svg" width="18" height="18"/> Live Demo
+      </a>
+    </p>
+    <p align="center">
+      <strong>React · Redux · JavaScript · Node.js · Tailwind CSS · Yup · Framer Motion</strong>
+    </p>
+  </div>
+</td>
   </tr>
   <tr>
-     <td width='50%'>
-      <h2 align='center'>Sonar Strike - Battle Ship Game</h2>
-      <p>
-        Sonar Strike is a web-based battle ship game that allows players to compete against AI in a strategic naval battle. Players can place their ships on a grid and take turns guessing the locations of their opponent's ships.
-      <div align='center'>  
-        <a href='https://notes-delta-blue.vercel.app/'>
-          <img src='images/sonar-strike.png' alt='Sonar Strike'/>
-        </a>
-        <br>
-        <br>
-         <p style='display:flex; align-items:center; gap:20px; justify-content:center;'>
-         <a href='https://github.com/SidorovaMaria/Odin-Project/tree/main/JavaScript/SonarStrike' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
-            <img src='icons/open-in.svg' width='24' height='24'/>
-            Repository
-          </a>
-          <a href='https://htmlpreview.github.io/?https://github.com/SidorovaMaria/Odin-Project/blob/sonar-strike/index.html' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
-            <img src='icons/eye.svg' width='24' height='24'/>
-            Live Demo
-          </a>
-        </p>
-        <p><strong>Vanilla JavaScript, HTML, CSS</strong></p>
-      </div>
-    </td>
-    <td width='50%'>
-      <h2 align='center'>MoodBowl</h2>
-      <p>
-        MoodBowl helps users log meals and moods, revealing connections between nutrition and well-being. Its simple interface and clear charts support healthy habits and self-awareness.
-      </p>
-      <div align='center'>  
-        <a href='https://mood-bowl.vercel.app/'>
-          <img src='images/moodbowl-preview.png' alt='MoodBowl'/>
-        </a>
-        <br>
-        <br>
-        <p style='display:flex; align-items:center; gap:20px; justify-content:center;'>
-         <a href='https://github.com/SidorovaMaria/mood-bowl' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
-            <img src='icons/open-in.svg' width='24' height='24'/>
-            Repository
-          </a>
-          <a href='https://mood-bowl.vercel.app/' style='text-decoration:none; color:inherit; font-weight:800; display:flex; align-items:center; gap:5px; justify-content:center;'>
-            <img src='icons/eye.svg' width='24' height='24'/>
-            Live Demo
-          </a>
-        </p>
-        <p><strong>React, TypeScript, Next.js, Tailwind CSS, Recharts, Framer Motion, MongoDB, Radix UI, Mongoose</strong></p>
-      </div>
-    </td>
-   
+     <<td width="50%">
+  <h2 align="center">🚢 Sonar Strike – Battleship Game</h2>
+  <p>
+    Sonar Strike is a web-based Battleship game where players engage in a strategic naval duel against AI. 
+    Place your fleet, anticipate your opponent’s moves, and use logic and intuition to locate and destroy enemy ships.
+  </p>
+  <div align="center">
+    <a href="https://htmlpreview.github.io/?https://github.com/SidorovaMaria/Odin-Project/blob/sonar-strike/index.html" target="_blank">
+      <img src="images/sonar-strike.png" alt="Sonar Strike Game preview" width="100%" style="border-radius:12px;"/>
+    </a>
+    <br><br>
+    <p align="center">
+      <a href="https://github.com/SidorovaMaria/Odin-Project/tree/main/JavaScript/SonarStrike" target="_blank" style="text-decoration:none; color:inherit; font-weight:600; margin-right:20px;">
+        <img src="icons/open-in.svg" width="18" height="18"/> Repository
+      </a>
+      <a href="https://htmlpreview.github.io/?https://github.com/SidorovaMaria/Odin-Project/blob/sonar-strike/index.html" target="_blank" style="text-decoration:none; color:inherit; font-weight:600;">
+        <img src="icons/eye.svg" width="18" height="18"/> Live Demo
+      </a>
+    </p>
+    <p align="center">
+      <strong>JavaScript · HTML · CSS</strong>
+    </p>
+  </div>
+</td>
+   <td width="50%">
+  <h2 align="center">🥗 MoodBowl – Meal & Mood Tracker</h2>
+  <p>
+    MoodBowl helps users track their meals and moods to uncover patterns between nutrition and emotional well-being. 
+    Featuring a clean, intuitive interface with animated charts and smooth transitions, it promotes mindful eating and balanced daily habits.
+  </p>
+  <div align="center">
+    <a href="https://mood-bowl.vercel.app/" target="_blank">
+      <img src="images/moodbowl-preview.png" alt="MoodBowl App preview" width="100%" style="border-radius:12px;"/>
+    </a>
+    <br><br>
+    <p align="center">
+      <a href="https://github.com/SidorovaMaria/mood-bowl" target="_blank" style="text-decoration:none; color:inherit; font-weight:600; margin-right:20px;">
+        <img src="icons/open-in.svg" width="18" height="18"/> Repository
+      </a>
+      <a href="https://mood-bowl.vercel.app/" target="_blank" style="text-decoration:none; color:inherit; font-weight:600;">
+        <img src="icons/eye.svg" width="18" height="18"/> Live Demo
+      </a>
+    </p>
+    <p align="center">
+      <strong>Next.js · React · TypeScript · Tailwind CSS · Radix UI · Framer Motion · MongoDB · Mongoose · Recharts</strong>
+    </p>
+  </div>
+</td>
   </tr>
 </table>
