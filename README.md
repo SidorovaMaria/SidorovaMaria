@@ -178,7 +178,7 @@
 </tr>
 </table>
 <table>
-<tr>
+<!-- <tr>
 <td colspan="2">
  <h2 align="center">💰 Bookmark - Manager</h2>
   <p>
@@ -207,7 +207,7 @@
      <strong>Next.js · React · TypeScript · React Hook Form · Tailwind CSS · Radix UI · MongoDB · Mongoose · Vitest · Zod · Vercel</strong>
     </p>
  </td>
-</tr>
+</tr> -->
 <tr>
     <td width="50%">
       <h2 align="center">💰 Finance – Budget Tracker</h2>
