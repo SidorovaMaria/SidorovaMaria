@@ -177,37 +177,35 @@
 </td>
 </tr>
 </table>
+<br>
+<h2 align="center">💰 Bookmark - Manager</h2>
+<p>
+  Bookmark Manager is a full-stack web app built to help users collect, categorize, and quickly access websites they love. It provides a clean interface for managing bookmarks, with tagging, searching, filtering, and archiving capabilities — all wrapped in a minimal design that adapts across screen sizes.
+</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="images/bookmark-manager-light.png" alt="Bookmark Manager Light Mode Screenshot" width="100%" />
+    </td>
+    <td>
+      <img src="images/bookmark-manager.png" alt="Bookmark Manager Dark Mode Screenshot" width="100%" />
+    </td>
+  </tr>
+</table>
+<br>
+<p align="center">
+  <a href="https://github.com/SidorovaMaria/bookmark-manager" target="_blank" style="text-decoration:none; color:inherit; font-weight:600; margin-right:20px;">
+    <img src="icons/open-in.svg" width="18" height="18"/> Repository
+  </a>
+  <a href="https://bookmark-manager-gamma-nine.vercel.app/" target="_blank" style="text-decoration:none; color:inherit; font-weight:600;">
+    <img src="icons/eye.svg" width="18" height="18"/> Live Demo
+  </a>
+</p>
+<p align="center">
+  <strong>Next.js · React · TypeScript · React Hook Form · Tailwind CSS · Radix UI · MongoDB · Mongoose · Vitest · Zod · Vercel</strong>
+</p>
+
 <table>
-<!-- <tr>
-<td colspan="2">
- <h2 align="center">💰 Bookmark - Manager</h2>
-  <p>
-    Bookmark Manager is a full-stack web app built to help users collect, categorize, and quickly access websites they love. It provides a clean interface for managing bookmarks, with tagging, searching, filtering, and archiving capabilities — all wrapped in a minimal design that adapts across screen sizes.
-  </p>
-    <table align="center">
-      <tr>
-        <td>
-          <img src="images/bookmark-manager-light.png" alt="Bookmark Manager Light Mode Screenshot" width="100%" />
-        </td>
-        <td>
-          <img src="images/bookmark-manager.png" alt="Bookmark Manager Dark Mode Screenshot" width="100%" />
-        </td>
-      </tr>
-    </table>
-      <br>
-    <p align="center">
-          <a href="https://github.com/SidorovaMaria/bookmark-manager" target="_blank" style="text-decoration:none; color:inherit; font-weight:600; margin-right:20px;">
-            <img src="icons/open-in.svg" width="18" height="18"/> Repository
-          </a>
-          <a href="https://bookmark-manager-gamma-nine.vercel.app/" target="_blank" style="text-decoration:none; color:inherit; font-weight:600;">
-            <img src="icons/eye.svg" width="18" height="18"/> Live Demo
-          </a>
-    </p>
-   <p align="center">
-     <strong>Next.js · React · TypeScript · React Hook Form · Tailwind CSS · Radix UI · MongoDB · Mongoose · Vitest · Zod · Vercel</strong>
-    </p>
- </td>
-</tr> -->
 <tr>
     <td width="50%">
       <h2 align="center">💰 Finance – Budget Tracker</h2>
