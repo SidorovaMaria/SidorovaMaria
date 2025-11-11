@@ -104,6 +104,11 @@
       <img src="icons/sql.svg" alt="SQL Basics" width="40" height="40"/>
       <br/>SQL Basics
     </td>
+    </td>
+     <td align="center" height="70" width="70" style='background-color:#cccccc30; border-radius:8px; padding:5px;'>
+      <img src="icons/sql.svg" alt="SQL Basics" width="40" height="40"/>
+      <br/>Sanity & GROQ
+    </td> 
     </tr>
 </table>
 
@@ -162,7 +167,7 @@
 </tr>
 </table> -->
 <h1 align="center" style='margin-top:60px'>Projects</h1>
-<h3 align='center'> <a href="https://portfolio-6dft.vercel.app/"  style="text-decoration:none; color:white; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center; background-color:#fffefe4d; padding:10px; border-radius:8px;">
+<h3 align='center'> <a href="https://maria-sidorova-dev.vercel.app//"  style="text-decoration:none; color:white; font-weight:800; display:flex; align-items:center; gap:10px; justify-content:center; background-color:#fffefe4d; padding:10px; border-radius:8px;">
     <img src="icons/portfolio.png" alt="Portfolio Logo" height="50" width="50" />
     <span>My Portfolio ↗</span>
   </a>
